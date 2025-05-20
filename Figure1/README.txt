@@ -2,7 +2,7 @@ This folder contains the code to replicate Figure 1 in Analysis of data-augmenta
 
 It includes the following files:
 
-- "Functions_cpupling.R", which contains the functions to implement all the couplings.
+- "Functions_coupling.R", which contains the functions to implement all the couplings.
 
 - "Simulations_Figure1.R", which contains the code to replicate Figure 1.
 
